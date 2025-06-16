@@ -1,3 +1,5 @@
+# Note: 
+Project này được thực hiện như bài luyện trên lớp nên còn đơn giản và chỉ dùng cho việc tham khảo.
 # PIPELINE
 B1: Đưa về góc nhìn bird's eye view
 
